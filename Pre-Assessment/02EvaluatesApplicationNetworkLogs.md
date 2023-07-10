@@ -1,12 +1,12 @@
 ## What is the primary defense against log injection attacks?
 
-A. Sanitize outbound log messages (**CORRECT**)
++ A. Sanitize outbound log messages (**CORRECT**)
 
-B. Do not use parameterized stored procedures in the database
++ B. Do not use parameterized stored procedures in the database
 
-C. Allow all users to write to these logs
++ C. Allow all users to write to these logs
 
-D. Use API calls to log actions
++ D. Use API calls to log actions
 ***
 The primary defense against log injection attacks is to **sanitize outbound log messages**. Log injection is a type of security vulnerability where an attacker manipulates log messages to inject malicious code or exploit system vulnerabilities. By sanitizing outbound log messages, you ensure that any user-supplied input or potentially dangerous characters are properly escaped or removed before being included in the log.
 
