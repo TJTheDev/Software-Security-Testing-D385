@@ -24,7 +24,7 @@ By properly sanitizing outbound log messages, you can minimize the risk of log i
 
 ---
 
-It's important to note that the other options listed (B, C, and D) are not directly related to defending against log injection attacks:
+### It's important to note that the other options listed (B, C, and D) are not directly related to defending against log injection attacks:
 
 - B. "Do not use parameterized stored procedures in the database" is not a specific defense against log injection attacks. However, using parameterized queries or stored procedures can help protect against SQL injection attacks, which are a different type of security vulnerability.
 
@@ -32,4 +32,4 @@ It's important to note that the other options listed (B, C, and D) are not direc
 
 - D. "Use API calls to log actions" is a good practice for logging actions but does not directly address log injection attacks. It focuses on the method of logging rather than the specific defense against log injection vulnerabilities.
 
-### In summary, the best defense against log injection attacks is to **sanitize outbound log messages** by properly validating and encoding user-supplied data before including it in the logs.
+#### In summary, the best defense against log injection attacks is to **sanitize outbound log messages** by properly validating and encoding user-supplied data before including it in the logs.
