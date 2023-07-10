@@ -1,4 +1,4 @@
-##What is the primary defense against log injection attacks?
+## What is the primary defense against log injection attacks?
 
 A. Sanitize outbound log messages (**CORRECT**)
 
