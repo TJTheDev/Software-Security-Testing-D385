@@ -32,4 +32,4 @@ It's important to note that the other options listed (B, C, and D) are not direc
 
 - D. "Use API calls to log actions" is a good practice for logging actions but does not directly address log injection attacks. It focuses on the method of logging rather than the specific defense against log injection vulnerabilities.
 
-In summary, the best defense against log injection attacks is to **sanitize outbound log messages** by properly validating and encoding user-supplied data before including it in the logs.
+# In summary, the best defense against log injection attacks is to **sanitize outbound log messages** by properly validating and encoding user-supplied data before including it in the logs.
