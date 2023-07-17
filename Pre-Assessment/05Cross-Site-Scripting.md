@@ -14,8 +14,8 @@ The question is about a specific security vulnerability called "cross-site scrip
 
 Let's break down the answer options:
 
-- **A. Access the user's data** (CORRECT)
-This option is correct. With a successful cross-site scripting attack, the attacker can gain unauthorized access to the user's data, including personal information, login credentials, cookies, and any other sensitive information that the user has on the affected website.
+- **A. Access the user's data**
+This option is correct. With a successful cross-site scripting attack, the attacker can gain unauthorized access to the user's data, including personal information, login credentials, cookies, and any other sensitive information that the user has on the affected website. (CORRECT)
 
 - **B. Execute a shell command or script**
 This option is not directly related to cross-site scripting. Executing shell commands or scripts typically involves other types of security vulnerabilities like command injection or remote code execution.
