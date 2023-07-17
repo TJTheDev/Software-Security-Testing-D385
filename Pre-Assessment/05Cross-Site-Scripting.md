@@ -1,5 +1,4 @@
-## An attacker exploits a cross-site scripting vulnerability. 
-## What is the attacker able to do? 
+## An attacker exploits a cross-site scripting vulnerability. What is the attacker able to do? 
 
 - A. Access the user's data
 
