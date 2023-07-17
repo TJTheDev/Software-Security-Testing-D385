@@ -1,6 +1,6 @@
 ## What is the primary defense against log injection attacks?
 
-- A. Sanitize outbound log messages (**CORRECT**)
+- A. Sanitize outbound log messages
 
 - B. Do not use parameterized stored procedures in the database
 
@@ -25,6 +25,8 @@ By properly sanitizing outbound log messages, you can minimize the risk of log i
 ---
 
 #### It's important to note that the other options listed (B, C, and D) are not directly related to defending against log injection attacks:
+
+- A. Sanitize outbound log messages (**CORRECT**)
 
 - B. "Do not use parameterized stored procedures in the database" is not a specific defense against log injection attacks. However, using parameterized queries or stored procedures can help protect against SQL injection attacks, which are a different type of security vulnerability.
 
