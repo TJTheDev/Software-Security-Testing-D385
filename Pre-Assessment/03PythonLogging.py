@@ -36,19 +36,19 @@ def divideByZeroError(dividend, divisor):
     logging.basicConfig(stream=sys.stdout,format='%(levelname)s:%(message)s')
     
     try:
-       # Attempt division to get the quotient.
-       quotient = dividend/divisor  
-       print (quotient)
+	    # Attempt division to get the quotient.
+	    quotient = dividend/divisor
+	    print (quotient)
         
     except Exception as e:
 
-        # If an exception occurs during division, log the error using the logging module, including the exception message (str(e)).
-				logging.error(' The exception that occurred is: ' + str(e))
+	    # If an exception occurs during division, log the error using the logging module, including the exception message (str(e)).
+	    logging.error(' The exception that occurred is: ' + str(e))
 
 if __name__ == '__main__': 
-     # Get the values for dividend and divisor from user input.
-    dividend = int(input())
-    divisor = int(input())
-
-    # Call the divideByZeroError function with the provided input values to handle any potential division errors.
-    divideByZeroError(dividend,divisor)
+	# Get the values for dividend and divisor from user input.
+	dividend = int(input())
+	divisor = int(input())
+	
+	# Call the divideByZeroError function with the provided input values to handle any potential division errors.
+	divideByZeroError(dividend,divisor)
