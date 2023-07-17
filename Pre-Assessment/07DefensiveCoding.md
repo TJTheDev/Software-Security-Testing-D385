@@ -1,9 +1,12 @@
 ## What are two common defensive coding techniques?
 
 A. Check functional preconditions and postconditions
-B. Encrypt passwords and email submissions 
-C. Adjust length and encoding of messages 
-D. Develop code with exceptions to find errors 
+
+B. Encrypt passwords and email submissions
+
+C. Adjust length and encoding of messages
+
+D. Develop code with exceptions to find errors
 
 ---
 
