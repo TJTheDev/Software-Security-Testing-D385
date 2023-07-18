@@ -16,6 +16,9 @@ for url in urls:
 Which security vulnerability is shown? 
  
 A. Man-in-the-middle  (CORRECT)
+
 B. Cross-site scripting 
+
 C. Denial of service
+
 D. Code injection 
