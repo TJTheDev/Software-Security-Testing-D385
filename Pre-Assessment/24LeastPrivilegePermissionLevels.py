@@ -47,13 +47,11 @@ def user(filename, user):
     return user    
     
 def grant_permission(name_list, filename):
-    # FIXME
     if result:
         os.chmod(filename, stat.S_IRWXU)
     else:
         os.chmod(filename, stat.S_IRUSR | stat.S_IRGRP | stat.S_IROTH)
     
-
     check_permission(filename)
 
 def check_permission(filename):
