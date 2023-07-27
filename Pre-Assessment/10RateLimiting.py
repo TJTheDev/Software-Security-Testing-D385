@@ -37,7 +37,7 @@ class Limiter:
         # The bucket represents the current available tokens in the rate limiter
         # Finish line 18 by writing an expression that determines the value of the bucket
         # Use the following variables in your expression: time_passed, self.bucket, self.rate, and self.per 
-        bucket = self.bucket + time_passed * (self.tokens / self.per)
+        bucket = self.bucket + time_passed * (self.rate / self.per)
       
         # If the calculated bucket value is greater than the rate, reset it to the maximum rate
         if (bucket > self.rate):
