@@ -21,7 +21,8 @@ def CelciusToFahrenheit(Temperature):
 
     # Insert an assert statement to check if the temperature is greater than 0
     # If the temperature is not greater than 0, an AssertionError will be raised with the specified message
-    assert Temperature > 0, "Colder than zero degrees Celsius!"
+    assert Temperature <= 0, "Colder than zero degrees Celsius!"
+
     
     # Convert the int of Celsius to Fahrenheit and return the result
     return (int((Temperature*9)/5)+32)
