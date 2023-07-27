@@ -13,6 +13,9 @@ print('You must enter a valid number from 1 to 10')
 print('You picked the number ' + str(pickedNumber)) 
  
 A. Type and range check  (CORRECT)
+
 B. Type and length check
+
 C. Length and range check
+
 D. Invalid number check
