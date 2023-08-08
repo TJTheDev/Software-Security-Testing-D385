@@ -25,7 +25,7 @@ def CelciusToFahrenheit(Temperature):
 
     
     # Convert the int of Celsius to Fahrenheit and return the result
-    return (int((Temperature*9)/5)+32)
+    return ((Temperature*9)/5)+32
 
 # Check if the script is being run directly (not imported as a module)
 if __name__ == '__main__':
