@@ -2,7 +2,7 @@
  
 ## Which vulnerability did the security analyst encounter? 
  
-A. Broken access control  (CORRECT)
+A. Broken access control
 
 B. Broken function level authorization 
 
