@@ -6,7 +6,7 @@ urls = open("websites.txt", "r")
 for url in urls: 
   - url = url.strip() 
   - req = requests.get(url) 
-  - print (url, 'reportde02 
+  - print (url, 'reportde02')
  
   try: 
    - transport_security = req.headers['Strict-Transport-Security'] 
