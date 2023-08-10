@@ -2,15 +2,15 @@
  
 def authorizeAdmin(usr): 
 
-    assert isinstance(usr, list) and usr != [], “No user found” 
+   assert isinstance(usr, list) and usr != [], “No user found” 
     
-    assert ‘admin’ in usr, “No admin found.” 
+   assert ‘admin’ in usr, “No admin found.” 
     
-    print(“You are granted full access to the application.”) 
+   print(“You are granted full access to the application.”) 
  
 If __name__ == ‘__main__’: 
 
-    authorizeAdmin([‘user’]) 
+   authorizeAdmin([‘user’]) 
  
 ## What should be the response after running the code? 
  
