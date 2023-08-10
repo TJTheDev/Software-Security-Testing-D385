@@ -1,4 +1,4 @@
-A security analyst is reviewing code for improper input validation.   
+**A security analyst is reviewing code for improper input validation.**
  
 ## Which type of input validation does this code show?
  
