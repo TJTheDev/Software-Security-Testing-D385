@@ -10,7 +10,7 @@ IsAdmin
  
 ## What is the best way to ensure the API is protected against privilege escalation? 
  
-A. Implement resource and field-level access control  (CORRECT)
+A. Implement resource and field-level access control
 
 B. Ensure incoming requests are rate limited 
 
