@@ -41,8 +41,6 @@ In the provided code, when the authorizeAdmin function is called with the argume
 
 As a result, the response after running the code will be:
 
-A. AssertionError: No admin found (CORRECT)
+**A. AssertionError: No admin found (CORRECT)**
 
 This is because the second assert statement is not met, and it raises an assertion error with the message "No admin found."
-
-**A. AssertionError: No admin found (CORRECT)**
