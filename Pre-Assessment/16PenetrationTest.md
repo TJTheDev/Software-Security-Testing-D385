@@ -9,9 +9,9 @@ for url in urls:
   - print (url, 'reportde02 
  
   try: 
-    - transport_security = req.headers['Strict-Transport-Security'] 
+   - transport_security = req.headers['Strict-Transport-Security'] 
    except: 
-    -  print ('HSTS header not set properly') 
+   - print ('HSTS header not set properly') 
  
 ## Which security vulnerability is shown? 
  
