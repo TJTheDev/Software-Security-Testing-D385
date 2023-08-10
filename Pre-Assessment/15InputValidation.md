@@ -4,21 +4,21 @@
  
 isValidNumber = False 
 
-while not isValidNumber: 
-
-try: 
+while not isValidNumber:
+ 
+  try: 
 
 pickedNumber = int(input('Pick a number from 1 to 10')) 
 
 if pickedNumber >= 1 and pickedNumber <= 10: 
 
- isValidNumber = True 
+  isValidNumber = True 
  
 except: 
 
-print('You must enter a valid number from 1 to 10') 
+  print('You must enter a valid number from 1 to 10') 
 
-print('You picked the number ' + str(pickedNumber)) 
+  print('You picked the number ' + str(pickedNumber)) 
 
  
 A. Type and range check
