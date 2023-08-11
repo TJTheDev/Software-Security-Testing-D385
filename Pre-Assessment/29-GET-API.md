@@ -46,5 +46,5 @@ D. 400: HTTP status code 400 means "Bad Request". This status code is returned w
 
 Given the code snippet provided and assuming that the URL 'https://website.com/' corresponds to a resource that the client (your code) does not have permission to access, the correct status code is A. 403 (FORBIDDEN).
 
-**A. 403**
+**A. 403 (CORRECT)**
 
