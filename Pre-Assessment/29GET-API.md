@@ -3,11 +3,11 @@
 import requests 
 url = 'https://website.com/' 
  
-# Get request 
+Get request 
  
 result = requests.get(url) 
  
-# Print request 
+Print request 
  
 print(result.content.decode()) 
  
