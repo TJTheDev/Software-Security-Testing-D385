@@ -26,7 +26,7 @@ def multiply_numbers(x, y):
         return x
     # If both x and y are not None, return their product
     else:
-        return x * y   
+        return x * y
 
 # Define a test case class to test the multiply_numbers function
 class TestForNone(unittest.TestCase):
