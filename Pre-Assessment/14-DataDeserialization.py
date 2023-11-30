@@ -7,7 +7,7 @@ Your function should return the result of deserialize() if it passes validation,
 
 If the code is not fixed properly, the output to the console will be:
 
-Error: key does not match old key
+Error: New key does not match old key
 Alternatively, when the code is fixed properly, the output to the console will be:
 
 (Your program produced no output)
@@ -25,7 +25,7 @@ def safe_deserialize(key, serialized_data):
         if key == new_key:
             return deserialize(serialized_data)
         else:
-            raise Exception('key does not match old key')
+            raise Exception('New key does not match old key')
     except Exception as error:
         print('Error:', error)
         
