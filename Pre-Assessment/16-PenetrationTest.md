@@ -37,3 +37,4 @@ Therefore, the code is checking for the vulnerability related to man-in-the-midd
 The correct answer is:
 
 **A. Man-in-the-middle (CORRECT)**
+</details>
