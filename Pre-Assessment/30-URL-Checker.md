@@ -27,6 +27,9 @@ C. 400—"Bad request"
 
 D. 401—"Unauthorized"
 
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 In the provided code snippet, the user sends a GET request to the URL 'https://api.github.com/invalid'. This URL suggests that the user is attempting to access a resource that is invalid or not found. The code then uses the requests.get method to send the request and checks if the response was successful using the raise_for_status() method.
@@ -44,3 +47,4 @@ C. 400—"Bad request": This status code indicates that the request was malforme
 D. 401—"Unauthorized": This status code indicates that the request requires authentication, and the user is not authorized to access the resource. While authentication could be a possibility, the more common scenario based on the URL is that the resource is not found, leading to a 404 response.
 
 **A. 404—"Not found" (CORRECT)**
+</details>
