@@ -8,6 +8,7 @@ C. print()
 
 D. append()
 
+
 <details>
 <summary>Answer</summary>
 
