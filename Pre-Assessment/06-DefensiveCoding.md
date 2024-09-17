@@ -8,6 +8,8 @@ C. Adjust length and encoding of messages
 
 D. Develop code with exceptions to find errors
 
+<details>
+<summary>Answer</summary>
 ---
 
 - A. Check functional preconditions and postconditions
@@ -29,3 +31,4 @@ Now let's briefly discuss the other options:
 - D. Develop code with exceptions to find errors: While using exceptions in code is a useful approach to handling unexpected situations and error scenarios, it is not a primary technique for "finding errors" in the code. Defensive coding focuses on preventing errors from occurring in the first place or handling them gracefully when they do happen.
 
 ### In conclusion, the correct answer is A. Check functional preconditions and postconditions because these techniques play a crucial role in improving the reliability and correctness of software by ensuring valid inputs and expected outcomes in functions and methods.
+</details>
