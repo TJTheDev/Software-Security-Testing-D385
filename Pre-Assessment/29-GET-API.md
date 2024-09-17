@@ -21,8 +21,10 @@ C. 401
 
 D. 400
 
----
+<details>
+<summary>Show Answer</summary>
 
+---
 
 Importing the requests library: The code begins by importing the requests library, which is a popular Python library used for making HTTP requests to web servers.
 
@@ -47,4 +49,4 @@ D. 400: HTTP status code 400 means "Bad Request". This status code is returned w
 Given the code snippet provided and assuming that the URL 'https://website.com/' corresponds to a resource that the client (your code) does not have permission to access, the correct status code is A. 403 (FORBIDDEN).
 
 **A. 403 (CORRECT)**
-
+</details>
