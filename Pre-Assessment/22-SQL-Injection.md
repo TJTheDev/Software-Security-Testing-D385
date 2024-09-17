@@ -8,6 +8,9 @@ C. Using SQL composition
 
 D. Utilizing literal parameters 
 
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 A SQL injection attack occurs when an attacker maliciously injects SQL (Structured Query Language) code into a vulnerable SQL query, manipulating the query's behavior and potentially gaining unauthorized access to the database or altering its contents. Exploiting query parameters is a common method used in SQL injection attacks.
@@ -25,3 +28,4 @@ C. Using SQL composition, while it may sound related, is not a specific method u
 D. Utilizing literal parameters doesn't directly relate to SQL injection attacks. In SQL, literal parameters are used to represent constant values directly in a query. The issue in SQL injection is not with literal parameters but with improperly handled dynamic input that can be manipulated by attackers.
 
 **A. Exploiting query parameters (CORRECT)**
+</details>
