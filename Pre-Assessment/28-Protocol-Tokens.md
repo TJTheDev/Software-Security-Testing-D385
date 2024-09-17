@@ -8,6 +8,9 @@ C. LDAP
 
 D. ACL
 
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 The MSAL (Microsoft Authentication Library) is designed to handle authentication and authorization scenarios, primarily for Microsoft services and applications. It supports acquiring tokens for various Microsoft APIs, such as Microsoft Graph, Azure AD, and more.
@@ -26,3 +29,4 @@ It's essential to understand the capabilities of different authentication and au
 
 
 **A. MSAL (Microsoft Authentication Library)**
+</details>
