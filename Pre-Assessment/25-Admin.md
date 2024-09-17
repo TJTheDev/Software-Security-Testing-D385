@@ -27,8 +27,6 @@ D. You are granted full access to the application
 
 ---
 
-Let's analyze the code:
-
 The authorizeAdmin function takes a single argument called usr.
 
 The first assert statement checks two conditions:
