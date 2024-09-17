@@ -26,3 +26,4 @@ C. API mass assignment refers to vulnerabilities in APIs (Application Programmin
 D. Privilege escalation refers to gaining higher-level access than initially granted, which is not precisely what's described in the scenario. In the scenario, the focus is on unauthorized access to multiple user accounts, not elevating privileges within an account.
 
 **A. Broken access control (CORRECT)**
+</details>
