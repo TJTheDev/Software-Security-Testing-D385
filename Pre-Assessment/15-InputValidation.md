@@ -39,3 +39,4 @@ D. Invalid number check
 - The primary focus of the validation in this code is on checking both the type (integer) and the range (1 to 10) of the input. Therefore, the correct answer is A.
 
 - **A. Type and range check (CORRECT)**
+</details>
