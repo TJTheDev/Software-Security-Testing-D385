@@ -10,6 +10,9 @@ C. API mass assignment
 
 D. Privilege escalation 
 
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 The scenario described, where an attacker took over multiple users' accounts, indicates a broken access control vulnerability. Broken access control refers to a situation where the system's access control mechanisms fail to prevent unauthorized users from accessing resources or performing actions that they should not have access to. In this case, the attacker was able to gain unauthorized access to user accounts, suggesting a weakness in the access control measures that should have prevented such unauthorized actions.
