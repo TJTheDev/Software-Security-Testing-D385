@@ -9,7 +9,7 @@
 - D. Use API calls to log actions
   
 ---
-
+<details>
 The primary defense against log injection attacks is to **sanitize outbound log messages**. Log injection is a type of security vulnerability where an attacker manipulates log messages to inject malicious code or exploit system vulnerabilities. By sanitizing outbound log messages, you ensure that any user-supplied input or potentially dangerous characters are properly escaped or removed before being included in the log.
 
 Sanitizing log messages involves applying input validation and output encoding techniques to prevent the injection of malicious content. It typically involves validating the input data, such as user inputs, and sanitizing or encoding it appropriately to ensure it does not contain any harmful characters or constructs.
@@ -35,3 +35,4 @@ By properly sanitizing outbound log messages, you can minimize the risk of log i
 - D. "Use API calls to log actions" is a good practice for logging actions but does not directly address log injection attacks. It focuses on the method of logging rather than the specific defense against log injection vulnerabilities.
 
 #### In summary, the best defense against log injection attacks is to **sanitize outbound log messages** by properly validating and encoding user-supplied data before including it in the logs.
+</details>
