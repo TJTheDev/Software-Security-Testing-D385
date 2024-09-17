@@ -8,9 +8,11 @@ C. print()
 
 D. append()
 
----
 <details>
 <summary>Answer</summary>
+
+---
+
 The question is about potential code injection attacks in Python and which Python function is prone to such attacks.
 
 Code Injection Attacks:
