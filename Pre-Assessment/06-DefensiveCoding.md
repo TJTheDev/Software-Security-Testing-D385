@@ -8,7 +8,6 @@ C. Adjust length and encoding of messages
 
 D. Develop code with exceptions to find errors
 
----
 <details>
 <summary>Answer</summary>
 
