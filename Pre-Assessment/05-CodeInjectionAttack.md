@@ -31,8 +31,9 @@ The type() function in Python is not directly related to code injection attacks.
 The print() function in Python is not prone to code injection attacks. It is used to display output on the console or in files and does not execute arbitrary code.
 
 - **D. append()**
-</details>
+
 
 The append() function is a list method in Python used to add elements to the end of a list. It is not related to code injection vulnerabilities as it deals with manipulating list data.
 
 In conclusion, the correct answer is A. eval(). This function is prone to potential code injection attacks because it interprets user-supplied data as executable code, making it a significant security risk if not used carefully and with proper input validation. As a general security best practice, it's important to avoid using eval() with untrusted data to prevent code injection vulnerabilities.
+</details>
