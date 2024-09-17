@@ -12,6 +12,8 @@ D. Develop code with exceptions to find errors
 <details>
 <summary>Answer</summary>
 
+---
+
 - A. Check functional preconditions and postconditions
 
 Functional preconditions and postconditions are common defensive coding techniques used to ensure the correctness and robustness of software. Here's an explanation of these terms:
