@@ -29,6 +29,9 @@ C. Length and range check
 
 D. Invalid number check
 
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 - This code snippet performs a type check by converting the input to an integer (int(input(...))), ensuring it's a valid integer. Additionally, it performs a range check by verifying that the picked number is within the specified range of 1 to 10. The code also handles invalid inputs by catching exceptions.
