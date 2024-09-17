@@ -22,6 +22,9 @@ C. Authorized User
 
 D. You are granted full access to the application 
 
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 Let's analyze the code:
@@ -44,3 +47,4 @@ As a result, the response after running the code will be:
 **A. AssertionError: No admin found (CORRECT)**
 
 This is because the second assert statement is not met, and it raises an assertion error with the message "No admin found."
+</details>
