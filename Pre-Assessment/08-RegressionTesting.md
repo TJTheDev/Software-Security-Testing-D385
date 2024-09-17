@@ -8,6 +8,10 @@ C. doctest
 
 D. assert
 
+
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 - **A. test**.
