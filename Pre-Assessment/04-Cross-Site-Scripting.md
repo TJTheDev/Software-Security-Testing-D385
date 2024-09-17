@@ -9,7 +9,7 @@
 - D. Gain access to sensitive files on the server 
   
 <details>
-<summary>Answer</summary>
+<summary>Show Answer</summary>
   
 ---
 
