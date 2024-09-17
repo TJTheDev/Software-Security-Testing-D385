@@ -9,7 +9,8 @@ C. print()
 D. append()
 
 ---
-
+<details>
+<summary>Answer</summary>
 The question is about potential code injection attacks in Python and which Python function is prone to such attacks.
 
 Code Injection Attacks:
@@ -30,6 +31,7 @@ The type() function in Python is not directly related to code injection attacks.
 The print() function in Python is not prone to code injection attacks. It is used to display output on the console or in files and does not execute arbitrary code.
 
 - **D. append()**
+</details>
 
 The append() function is a list method in Python used to add elements to the end of a list. It is not related to code injection vulnerabilities as it deals with manipulating list data.
 
