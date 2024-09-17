@@ -10,7 +10,7 @@ D. append()
 
 
 <details>
-<summary>Answer</summary>
+<summary>Show Answer</summary>
 
 ---
 
