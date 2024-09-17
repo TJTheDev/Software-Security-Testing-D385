@@ -9,7 +9,7 @@
 - D. Use API calls to log actions
   
 <details>
-<summary>Answer</summary>
+<summary>Show Answer</summary>
 
 ---
 
