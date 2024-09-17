@@ -9,7 +9,8 @@
 - D. Gain access to sensitive files on the server 
   
 ---
-
+<details>
+<summary>Answer</summary>
 The question is about a specific security vulnerability called "cross-site scripting" (XSS). Cross-site scripting is a type of security flaw in web applications where an attacker can inject malicious scripts into web pages that are viewed by other users. These scripts are then executed by the users' web browsers, allowing the attacker to perform various actions on behalf of the victim.
 
 Let's break down the answer options:
@@ -29,3 +30,4 @@ Again, this option is not directly related to cross-site scripting. Accessing se
 ---
 
 In summary, the correct answer is A. An attacker exploiting a cross-site scripting vulnerability can access the user's data and perform actions on behalf of the user within the context of the vulnerable website.
+</details>
