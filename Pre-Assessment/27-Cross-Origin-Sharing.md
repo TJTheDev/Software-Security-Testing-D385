@@ -8,6 +8,9 @@ C. Prevent the passing of credentials
 
 D. Protect the client header from exposure
 
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 Cross-Origin Resource Sharing (CORS) is a web security feature that allows web pages from one domain to make requests for resources (such as scripts, stylesheets, and data) from a different domain. This capability, provided by CORS, allows certain resources to bypass the same-origin policy, which restricts web pages from making requests to a different domain for security reasons.
@@ -25,3 +28,4 @@ C. Prevent the passing of credentials: CORS does not primarily prevent the passi
 D. Protect the client header from exposure: This option does not accurately describe the purpose of CORS. CORS is focused on controlling cross-origin requests, not specifically protecting client headers from exposure.
 
 **A. Override same starting policy for specific resources (CORRECT)**
+</details>
