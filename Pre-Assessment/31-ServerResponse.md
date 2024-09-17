@@ -8,6 +8,9 @@ C. response.status_code
 
 D. response.get 
 
+<details>
+<summary>Show Answer</summary>
+
 ---
 
 The `response.content` method in a HTTP response object (often returned by HTTP client libraries like the `requests` library in Python) returns the raw binary content of the response. This content includes the data sent by the server as a response to the request.
@@ -25,3 +28,4 @@ D. response.get: This is not a standard method in the `response` object. The `re
 So, for receiving information about the server's response and its content in binary form, the correct option is A. `response.content`.
 
 **A. response.content (CORRECT)**
+</details>
